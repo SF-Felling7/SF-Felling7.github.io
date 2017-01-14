@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding:20px;
+
+}
+
+h1{
+    border-bottom: inset;
+    border-color: chocolate;
+}
+
+span{
+    float: right;
+}
+
+h2{
+    border-top: solid;
+    border-bottom: solid;
+    border-color: chocolate;
+}
+
+h3{
+    border-bottom: double;
+    border-color: black;
+}
+li{
+    font-weight: 400;
+
+}
