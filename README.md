@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Resume</title>
+    <title></title>
     <link href="resume.css" type="text/css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
