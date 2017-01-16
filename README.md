@@ -10,7 +10,7 @@
         <h1>Sean Francis Felling</h1>
      <p>540 Robert Court<br>Mahtomedi, MN 55115
         <span>(651) 271-5408; Snfelling7@gmail.com</span>
-    </p><br>
+    </p><br><br>
 
    <div>
         <h2>EDUCATION:</h2>
@@ -18,7 +18,7 @@
          <li>Mahtomedi High School in Mahtomedi, MN.  Diploma received June, 2012</li>
          <li>Proyecto Linguistica Francisco Marroquin, Antigua, Guatemala - Language School 8/14 - 3/15</li>
      </ul>
-   </div><br>
+   </div><br><br>
 
    <div>
        <h2>Relevant Experience:</h2><br>
@@ -33,7 +33,7 @@
            location.</li>
            <li>Provide information for hotel's facilities and events, local restaurants and attractions.</li>
        </ul>
-   </div><br>
+   </div><br><br>
 
     <div>
         <h3>Hilton Garden Inn Hotel - Valet/Bellman/Doorman<br>Minneapolis, MN
@@ -48,7 +48,7 @@
              location.</li>
              <li>Provide information for hotel's facilities and events, local restaurants and attractions.</li>
          </ul>
-    </div><br>
+    </div><br><br>
 
     <div>
         <h3>Sandwich Preparer and Delivery Driver - Jimmy Johns Gourmet Sandwiches<br>Stillwater, MN
@@ -60,7 +60,7 @@
              <li>Accountable for general cleaning and sanitation.</li>
              <li>Superior customer service in taking orders and operating cash register</li>
          </ul>
-    </div><br>
+    </div><br><br>
 
     <div>
         <h3>Yard and Concrete work - Arbuckle's Concrete and Masonry, INC<br> Metro Area
@@ -69,7 +69,7 @@
          <ul>
              <li>Preparation through to completion of cement work.</li>
          </ul>
-    </div><br>
+    </div><br><br>
 
     <div>
         <h2>ACTIVITIES</h2>
@@ -77,7 +77,7 @@
             <li>Various Sports</li>
             <li>Reading</li>
              <li>Foreign Languages</li>
-         </ul><br>
+         </ul><br><br>
         <h2>ADDITIONAL SKILLS</h2>
          <ul>
             <li>Fluent in English, Spanish and Portuguese</li>
