@@ -21,7 +21,7 @@
    </div><br><br>
 
    <div>
-       <h2>Relevant Experience:</h2><br>
+       <h2>RELEVANT EXPERIENCE:</h2><br>
 
      <h3> Loews Minneapolis Hotel - Valet Attendent (Formerly The Graves 601 Hotel)<br> Minneapolis, MN
          <span>12/13 - 9/14/ & 5/16 - Current</span>
